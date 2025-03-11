@@ -22,7 +22,7 @@ product_id	units_sold	total_sales	cogs	manufacturer	drug
 61	77023	500101.61	419174.97	Biogen	Varicose Relief
 136	144814	1084258.00	1006447.73	Biogen	Burkhart
 Example Output:
-manufacturer	sale
+manufacturer	sale_mil
 Biogen	$4 million
 Eli Lilly	$3 million
 Explanation
